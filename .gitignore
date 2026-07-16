@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+mslearn-ai-studio
+mslearn-ai-agents
+mslearn-ai-language
+mslearn-ai-vision
+mslearn-ai-information-extraction
