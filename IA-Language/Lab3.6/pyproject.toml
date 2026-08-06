@@ -1,0 +1,14 @@
+[project]
+name = "lab3-6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.14.3",
+    "azure-ai-projects==2.0.0b4",
+    "azure-ai-voicelive==1.2.0b4",
+    "azure-identity>=1.26.0b2",
+    "dotenv>=0.9.9",
+    "pyaudio>=0.2.14",
+]
